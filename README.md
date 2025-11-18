@@ -32,6 +32,8 @@ including commercial and closed-source systems — without restriction.
 - `constitution-annotated.md` — Commentary version explaining rationale behind each section
 - `LICENSE` — CC0 Public Domain Dedication
 - `.gitignore` — Git ignore rules suitable for general development
+- `constitution.yaml` - Machine readable (YAML) of the core version
+- `constitution-annotated.yaml` — Machine readable (YAML) commentary version explaining rationale
 
 ## Usage
 
