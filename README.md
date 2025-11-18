@@ -54,4 +54,4 @@ fork the project freely.
 ## License
 
 This work is dedicated to the public domain under the CC0 1.0 Universal license.
-See the LICENSE file for details.
+See the LICENSE.txt file for details.
