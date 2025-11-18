@@ -32,6 +32,8 @@ including commercial and closed-source systems — without restriction.
 - `constitution-annotated.md` — Commentary version explaining rationale behind each section
 - `LICENSE` — CC0 Public Domain Dedication
 - `.gitignore` — Git ignore rules suitable for general development
+- `constitution.yaml` - Machine readable (YAML) of the core version
+- `constitution-annotated.yaml` — Machine readable (YAML) commentary version explaining rationale
 
 ## Usage
 
@@ -52,4 +54,4 @@ fork the project freely.
 ## License
 
 This work is dedicated to the public domain under the CC0 1.0 Universal license.
-See the LICENSE file for details.
+See the LICENSE.txt file for details.
